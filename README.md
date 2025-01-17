@@ -5,7 +5,7 @@ This is a 2D JavaScript game where the player controls a character who must reac
 
 ## Features
 - **Character Sprite Animations**: The character can perform multiple actions like idle, jumping, and attacking.
-- **Note Interaction**: The player must press the corresponding arrow key to hit falling notes.
+- **Note Interaction**: The player must press the corresponding arrow key to hit sliding notes.
 - **Feedback and Scoring**: The game provides feedback when notes are hit or missed, and updates the player's score.
 - **Background Music**: Includes looping background music and sound effects for note interactions.
 - **Pause and Menu Systems**: Allows the player to pause the game, change options (like volume), and return to the main menu.
