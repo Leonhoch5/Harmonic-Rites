@@ -33,7 +33,7 @@ This is a 2D JavaScript game where the player controls a character who must reac
 
 ## Assets Used
 - **Character Sprites**: Various sprites for the character's idle, attack, and jump states.
-- **Notes Sprites**: Falling notes that the player must interact with.
+- **Notes Sprites**: Sliding "notes" that the player must interact with.
 - **Sounds**: Background music and sound effects for interaction and game events.
 
 
