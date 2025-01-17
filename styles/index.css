@@ -15,5 +15,6 @@ body {
 }
 canvas {
     display: block;
+    background-image: url(../assets/backgrounds/2304x1296.png);
 }
 

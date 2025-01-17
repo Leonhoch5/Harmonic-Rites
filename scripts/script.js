@@ -378,9 +378,9 @@ menuOverlay.onload = () => {
 // Options menu buttons
 const optionsMenuButtons = {
   toggleMusic: {
-    x: canvas.width / 2 - 75,
+    x: canvas.width / 2 - 100,
     y: 350,
-    width: 150,
+    width: 200,
     height: 50,
     text: "Toggle Music",
     font: "24px ownFont",
